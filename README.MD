@@ -31,3 +31,5 @@ python3 1cent.py
 ### Note:
 
 The script will continue running as long as there is sufficient FTM on the wallets to cover the gas fees.
+
+Telegram: https://t.me/retrodropTools
